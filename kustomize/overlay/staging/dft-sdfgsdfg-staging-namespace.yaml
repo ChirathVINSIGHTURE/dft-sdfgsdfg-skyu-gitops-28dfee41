@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: dft-sdfgsdfg-staging
+  labels:
+    environment-id: env_4a17861e-c81e-4954-b4eb-ab7a1faa54b7
+    project-id: project_4c1dee2c-959c-44c9-be2a-a3568363ea87
+    project-name: dft sdfgsdfg
+    environment-name: staging
+    organization-id: org_c50d7b26-1f2a-4a6e-b11e-469a86e002c8
